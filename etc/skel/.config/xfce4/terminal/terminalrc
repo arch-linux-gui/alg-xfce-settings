@@ -5,7 +5,7 @@ MiscBellUrgent=FALSE
 MiscBordersDefault=TRUE
 MiscCursorBlinks=FALSE
 MiscCursorShape=TERMINAL_CURSOR_SHAPE_IBEAM
-MiscDefaultGeometry=94x22
+MiscDefaultGeometry=118x24
 MiscInheritGeometry=FALSE
 MiscMenubarDefault=TRUE
 MiscMouseAutohide=FALSE
@@ -27,6 +27,6 @@ MiscNewTabAdjacent=FALSE
 MiscSearchDialogOpacity=100
 MiscShowUnsafePasteDialog=TRUE
 ScrollingOnKeystroke=FALSE
-FontName=Monospace Regular 12
+FontName=Monospace Regular 10
 ColorUseTheme=TRUE
 
