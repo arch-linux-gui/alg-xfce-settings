@@ -15,7 +15,6 @@
         <value type="int" value="7"/>
         <value type="int" value="8"/>
         <value type="int" value="15"/>
-        <value type="int" value="17"/>
         <value type="int" value="16"/>
         <value type="int" value="2"/>
         <value type="int" value="3"/>
@@ -82,11 +81,6 @@
     <property name="plugin-16" type="string" value="launcher">
       <property name="items" type="array">
         <value type="string" value="16248209023.desktop"/>
-      </property>
-    </property>
-    <property name="plugin-17" type="string" value="launcher">
-      <property name="items" type="array">
-        <value type="string" value="16248209024.desktop"/>
       </property>
     </property>
     <property name="plugin-18" type="string" value="xfce4-clipman-plugin"/>
