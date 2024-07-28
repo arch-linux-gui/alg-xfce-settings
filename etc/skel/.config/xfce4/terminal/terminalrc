@@ -27,6 +27,6 @@ MiscNewTabAdjacent=FALSE
 MiscSearchDialogOpacity=100
 MiscShowUnsafePasteDialog=TRUE
 ScrollingOnKeystroke=FALSE
-FontUseTheme=TRUE
+FontName=Monospace Regular 12
 ColorUseTheme=TRUE
 
