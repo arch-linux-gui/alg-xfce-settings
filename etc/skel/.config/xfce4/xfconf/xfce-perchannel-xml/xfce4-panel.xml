@@ -9,7 +9,7 @@
       <property name="position" type="string" value="p=8;x=683;y=754"/>
       <property name="length" type="uint" value="100"/>
       <property name="position-locked" type="bool" value="true"/>
-      <property name="icon-size" type="uint" value="23"/>
+      <property name="icon-size" type="uint" value="28"/>
       <property name="size" type="uint" value="35"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="7"/>
@@ -30,6 +30,7 @@
         <value type="int" value="13"/>
         <value type="int" value="14"/>
       </property>
+      <property name="border-width" type="uint" value="4"/>
     </property>
   </property>
   <property name="plugins" type="empty">
