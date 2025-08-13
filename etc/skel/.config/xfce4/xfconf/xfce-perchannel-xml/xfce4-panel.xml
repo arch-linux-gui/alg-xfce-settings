@@ -69,6 +69,7 @@
       <property name="mpris-players" type="string" value="vlc"/>
     </property>
     <property name="plugin-7" type="string" value="whiskermenu"/>
+      <property name="button-icon" type="string" value="alg-logo-blue"/>
     <property name="plugin-8" type="string" value="launcher">
       <property name="items" type="array">
         <value type="string" value="16248208831.desktop"/>
