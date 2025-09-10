@@ -68,27 +68,7 @@
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
       <property name="mpris-players" type="string" value="vlc"/>
     </property>
-    <property name="plugin-7" type="string" value="whiskermenu">
-      <property name="button-icon" type="string" value="alg-logo-blue"/>
-      <property name="launcher-icon-size" type="int" value="3"/>
-      <property name="view-mode" type="int" value="2"/>
-      <property name="sort-categories" type="bool" value="false"/>
-      <property name="default-category" type="int" value="2"/>
-      <property name="favorites-in-recent" type="bool" value="true"/>
-      <property name="position-search-alternate" type="bool" value="true"/>
-      <property name="position-categories-alternate" type="bool" value="true"/>
-      <property name="command-switchuser" type="string" value="gdmflexiserver"/>
-      <property name="favorites" type="array">
-        <value type="string" value="xfce4-web-browser.desktop"/>
-        <value type="string" value="xfce4-mail-reader.desktop"/>
-        <value type="string" value="xfce4-file-manager.desktop"/>
-        <value type="string" value="xfce4-terminal-emulator.desktop"/>
-      </property>
-      <property name="recent" type="array">
-        <value type="string" value="xfce4-web-browser.desktop"/>
-        <value type="string" value="galculator.desktop"/>
-      </property>
-    </property>
+    <property name="plugin-7" type="string" value="whiskermenu"/>
     <property name="plugin-8" type="string" value="launcher">
       <property name="items" type="array">
         <value type="string" value="16248208831.desktop"/>
